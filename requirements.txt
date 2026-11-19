@@ -1,0 +1,12 @@
+streamlit
+google-genai
+pydantic
+fsrs>=6
+tenacity
+pandas
+python-dotenv
+rapidfuzz
+libsql
+tzdata
+networkx
+plotly
